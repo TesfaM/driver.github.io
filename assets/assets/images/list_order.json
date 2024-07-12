@@ -1,0 +1,32 @@
+[
+
+    {
+        "Name": "Amir",
+       "isPickup":"false",
+        "product": "Tomoto",
+        "Total":"500kg"
+        
+      },
+      {
+        "Name": "Andro",
+       "isPickup":"false",
+        "product": "Onions",
+        "Total":"500kg"
+        
+      },
+      {
+        "Name": "Tesfa",
+       "isPickup":"false",
+        "product": "Tomoto",
+        "Total":"500kg"
+        
+      },
+
+      {
+        "Name": "Biyaa",
+       "isPickup":"false",
+        "product": "Tomoto",
+        "Total":"500kg"
+        
+      }
+]

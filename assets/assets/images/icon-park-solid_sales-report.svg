@@ -1,0 +1,17 @@
+<svg width="37" height="36" viewBox="0 0 37 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-solid:sales-report">
+<g id="Mask group">
+<mask id="mask0_5_204" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="4" y="1" width="29" height="34">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M31.4368 10.5L18.6347 3L5.8327 10.5V25.5L18.6347 33L31.4368 25.5V10.5Z" fill="white" stroke="white" stroke-width="3" stroke-linejoin="round"/>
+<path id="Vector_2" d="M18.6347 16.5V22.5M24.6592 13.5V22.5M12.6103 19.5V22.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_5_204)">
+<path id="Vector_3" d="M0.561279 0H36.7082V36H0.561279V0Z" fill="#0E1800"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="14" height="17" viewBox="0 0 14 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="14" height="17" fill="#C8C8C8"/>
+<g id="Driver app landing page">
+<g clip-path="url(#clip0_1_16573)">
+<rect x="-45" y="-518" width="360" height="800" rx="20" fill="#F3F3F3"/>
+<path id="Rectangle 17677" d="M-44.75 -454C-44.75 -464.908 -35.9076 -473.75 -25 -473.75H295C305.908 -473.75 314.75 -464.908 314.75 -454V262C314.75 272.908 305.908 281.75 295 281.75H-25C-35.9076 281.75 -44.75 272.908 -44.75 262V-454Z" fill="white" stroke="black" stroke-width="0.5"/>
+<g id="Frame 512479">
+<g id="Group 1">
+<rect id="Rectangle 17697" x="-38.375" y="-12.875" width="346.75" height="43.75" fill="white" stroke="black" stroke-width="0.25"/>
+<g id="Group 512491">
+<g id="material-symbols:lock">
+<g id="Frame 19528">
+<g id="Phosphor Icons / AngularLogo / Regular">
+<path id="Vector" d="M7 21.5L17 16.5L19 1.5L7 -3.5L-5 1.5L-3 16.5L7 21.5Z" fill="#262626" stroke="#262626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="emojione-monotone:exclamation-mark">
+<path id="Vector_2" d="M8.56725 11.1456H6.25594L5.32715 2.04688H9.49627L8.56725 11.1456Z" fill="white"/>
+<path id="Vector_3" d="M7.41148 15.5501C8.39173 15.5501 9.18637 14.7798 9.18637 13.8297C9.18637 12.8796 8.39173 12.1094 7.41148 12.1094C6.43124 12.1094 5.6366 12.8796 5.6366 13.8297C5.6366 14.7798 6.43124 15.5501 7.41148 15.5501Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_16573">
+<rect x="-45" y="-518" width="360" height="800" rx="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>
